@@ -26,9 +26,6 @@ const Navbar = () => {
                             <a className="nav-link text-white" href="#">Contact Us</a>
                         </li>
                         <li className="nav-item me-5">
-                            <a className="nav-link text-white" href="#">Admin</a>
-                        </li>
-                        <li className="nav-item me-5">
                             <Link to="/dashboard" className="nav-link text-white">Dashboard</Link>
                         </li>
 
