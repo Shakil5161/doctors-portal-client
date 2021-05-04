@@ -1,0 +1,17 @@
+.contact-bg{
+    background-image: url('../../../images/Appointment.png');
+    background-size: cover;
+    padding: 380px 0px;
+    position: relative;
+
+    /* background-image: url(../../../images/Appointment.png);
+    height: 430px;
+    margin: 150px 0px;
+    background-size: cover;
+    position: relative; */
+
+}
+.contact-header{
+    color: white;
+    padding: 60px 0px;
+}

@@ -1,0 +1,33 @@
+button{
+    background: #007991;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #78ffd6, #007991);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #78ffd6, #007991); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.appointment{
+    background-image: url(../../../images/Appointment.png);
+    background-position: center center;
+    height: 430px;
+    margin: 150px 0px;
+    background-size: cover;
+    position: relative;
+}
+.appointment-content{
+    z-index: 1;
+    color: white;
+}
+.appointment-content img{
+    transform:  translateY(-108px)
+}
+.appointment-text{
+    padding: 100px;
+}
+.overlay{
+    position: absolute; 
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    background: #3A4256;
+    opacity:0.9;
+}

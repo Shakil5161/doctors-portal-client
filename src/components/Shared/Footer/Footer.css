@@ -1,0 +1,23 @@
+ul , li{
+    list-style-type: none;
+    padding: 0px;
+}
+.footer-link a{
+ text-decoration: none;
+ color: gray;
+}
+.footer-bg{
+    background-image: url('../../../images/footer-bg.png');
+}
+.footer-icon{
+    font-size: 15px;
+    color: '#1CC7C1';
+    border: 1px solid #1CC7C1;
+    border-radius: 50%;
+    margin-right: 15px;
+    padding: 10px;
+}
+.footer-icon:hover{
+    background: #1CC7C1; 
+    color: #fff;
+}
