@@ -25,10 +25,9 @@ Features:
 5. Full Functionality
 6. Patient And Admin Cannot Access Dashboard Without Login
 7. Patient Can book Appointment By Time And See This His Dashboard
-8. Admin Can See All Patient Appointments Add Doctors At Admin Panel
+8. Admin Can See All Patient Appointments Add Doctors At Admin Panel And More..
 
-And More...
- 
+Contact Me:
 Phone: 01641969790
 
 Email: shakilahmed5161@gmail.com
